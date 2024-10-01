@@ -1,0 +1,75 @@
+.me{
+	border:1px solid red;
+	background-color:pink;
+	max-width:100%;
+	text-align:center;
+	font-family:"papyrus";
+}
+
+img{
+	width:200px;
+	border-radius:50%;
+	
+}
+div{
+	width:1000p;
+	height:1000px;
+	padding-left:35px;
+
+	
+	
+}
+.lists ul{
+	background-color: pink;
+	list-style-type:square;
+	padding:20px;
+}
+.lists ol{
+	
+	background-color:lightblue;
+	padding:20px;
+	list-style-type:lower-alpha;
+	
+}
+.lists ol li{
+	background-color:gray;
+	margin-bottom:5px;
+}
+.lists ul li{
+	background-color:lightblue;
+margin-bottom:5px;
+}
+.links{
+	text-decoration:underline;
+	list-style-type:none;
+
+}
+table{
+	margin-top:5px;
+	padding:10px;
+}
+
+table,td,th{
+	border:1px solid red;
+	border-collapse:collapse;
+	width:100%;
+	color:black;
+}
+
+td,th{
+	text-align:left;
+	padding:15px;
+}
+
+.table2{
+	background-color:green;
+	margin:5px;
+}
+.table2 th{
+	background-color:purple;
+}
+
+.table{
+	background-color:pink;
+
+}

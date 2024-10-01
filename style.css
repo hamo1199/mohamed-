@@ -1,0 +1,100 @@
+body{
+background-color:gray;
+font-weight:bold;
+color:white;
+}
+header{
+	background-color:pink;
+	color:white;
+	text-align:center;
+	padding:1px;
+}
+nav ul{
+	list-style:none;
+	background-color:black;
+	text-align:left;
+	
+}
+nav ul li{
+	display:inline;
+	margin-right:60px;
+	
+}
+nav ul li a{
+text-decoration:none;
+color:pink;
+padding:15px;
+display:inline-block;	
+}
+nav ul li a:hover{
+	background-color:white;
+}
+.container{
+	display:flex;
+	margin:20px;
+}
+.left{
+	background-color:lightblue;
+	padding:15px;
+	width:25%;
+	text-align:left;
+	
+}
+
+	
+.main{
+	width:50%;
+	padding:15px;
+	
+	
+}
+footer{
+	background-color:black;
+}
+.right{
+	background-color:lightblue;
+	padding:15px;
+	width:25%;
+}
+ .food img{
+border-radius:none;
+width:250px;
+height:250px;
+background-color:black;
+margin:50px;
+border-width:10px;
+color:pink;
+
+}
+.agriculture img{
+width:50%;
+height:auto;
+border-radius:none;
+
+}
+.sports img{
+	width:70%;
+	background-color:white-space;
+	height:auto;
+	border-radius:none;
+}
+.table{
+	border: 10px solid black;
+    text-align: center;
+	width: 100%;
+    border-collapse: collapse;
+	background-color:red;
+}
+footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.fa-brands{
+	background-color:white;
+	border-radius:50%;
+	padding:10px;
+	font-size:1em;
+	
+}
